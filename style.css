@@ -1,0 +1,83 @@
+                                                /* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+                                                
+                                                @media only screen and (max-width:600px) {}
+                                                
+                                                li {
+                                                    display: inline;
+                                                    float: right;
+                                                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                                                    padding: 20px;
+                                                }
+                                                
+                                                .a {
+                                                    margin-left: 200px;
+                                                }
+                                                
+                                                .b {
+                                                    margin-right: 687px;
+                                                    float: right;
+                                                }
+                                                
+                                                .c {
+                                                    float: right;
+                                                    margin-right: 795px;
+                                                    margin-top: -315px;
+                                                    color: #666
+                                                }
+                                                
+                                                .d {
+                                                    float: right;
+                                                    margin-right: 785px;
+                                                    margin-top: -335px;
+                                                    text-decoration: line-through;
+                                                }
+                                                
+                                                .e {
+                                                    float: right;
+                                                    margin-right: 740px;
+                                                    margin-top: -235px;
+                                                }
+                                                
+                                                .f {
+                                                    float: right;
+                                                    margin-right: 758px;
+                                                    margin-top: -200px;
+                                                    color: red;
+                                                }
+                                                
+                                                .g {
+                                                    float: right;
+                                                    margin-right: 758px;
+                                                    margin-top: -178px;
+                                                    color: red;
+                                                }
+                                                
+                                                button {
+                                                    float: right;
+                                                    margin-right: 600px;
+                                                    margin-top: -150px;
+                                                    padding: 0px 70px 0px 50px;
+                                                    background-color: #F45EA0;
+                                                    font-weight: bold;
+                                                    color: white;
+                                                    font-size: 20px;
+                                                }
+                                                
+                                                .i {
+                                                    margin-left: 200px;
+                                                }
+                                                
+                                                .j {
+                                                    margin-top: -75px;
+                                                    margin-right: 850px;
+                                                    float: right;
+                                                }
+                                                
+                                                .l {
+                                                    margin-left: 240px;
+                                                }
+                                                
+                                                .m {
+                                                    margin-left: 200px;
+                                                    color: #666;
+                                                }
